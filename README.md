@@ -75,7 +75,13 @@ The web application will be running at `http://localhost:3001/`
 - Axios (for http requests)
 - Material-UI and styled-components (for component-level design)
 
----------
+#### Future Plans 🚀
+
+- [ ] To add an Admin Dashboard that would support CRUD operations for new products as well as create charts for user analytics, cost and total revenue.
+- [ ] To make this application mobile responsive.
+- [ ] And last but not the least is to use a hosting service like Heroku to deploy this application.
+
+---
 
 ```javascript
 if (youEnjoyed) {
@@ -83,5 +89,4 @@ if (youEnjoyed) {
 }
 ```
 
------------
-
+---
