@@ -1,5 +1,7 @@
 <h1 align="center">🛍️ Shopitel 🛒 </h1>
 
+https://user-images.githubusercontent.com/70844041/169762271-d50fef91-0664-4b17-a4a8-bfe54f9cdfe0.mp4
+
 ### To Get Started ⚡
 
 1. Clone the `shopitel-ecommerce-app` repository using git:
